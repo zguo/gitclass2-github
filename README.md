@@ -6,4 +6,5 @@ http://training.github.com/kit/intermediate
 add something
 ccc
 
-more local edits
+more edits and more local edits merged
+
